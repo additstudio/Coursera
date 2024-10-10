@@ -1,2 +1,2 @@
-# Coursera
-repo for Coursera classes
+#additstudio
+iOS developer course at Coursera
